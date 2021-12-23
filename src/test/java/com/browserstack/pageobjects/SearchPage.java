@@ -2,10 +2,7 @@ package com.browserstack.pageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-@RunWith(Cucumber.class)
-@CucumberOptions()
-public class RunCucumberTest {
-}
+
 public class SearchPage {
     private static WebDriver webDriver;
 
